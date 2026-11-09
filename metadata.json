@@ -1,0 +1,6 @@
+{
+  "name": "SMART SIGAP - SD Negeri Karanggintung 06",
+  "description": "Sistem Integrasi Guru & Anak Pintar (SMART SIGAP) - Portal Manajemen Sekolah Digital & Kurikulum Merdeka SD Negeri Karanggintung 06",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
